@@ -1,3 +1,3 @@
-#Curso Digital: GIT
+#Curso Digital: SUPER GIT
 
-#Salvando modificações no GIT
+## Salvando modificações no GIT
